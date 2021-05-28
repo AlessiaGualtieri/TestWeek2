@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Week2.Test
 {
@@ -6,7 +7,7 @@ namespace Week2.Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MenuTask.Menu();
         }
     }
 }

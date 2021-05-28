@@ -1,0 +1,16 @@
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.exe
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.deps.json
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.runtimeconfig.json
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.runtimeconfig.dev.json
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.dll
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\ref\Week2.Test.dll
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\bin\Debug\net5.0\Week2.Test.pdb
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.csprojAssemblyReference.cache
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.AssemblyInfoInputs.cache
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.AssemblyInfo.cs
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.csproj.CoreCompileInputs.cache
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.dll
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\ref\Week2.Test.dll
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.pdb
+C:\Users\alessia.gualtieri\Desktop\Avanade\Corso\Week2.Test\Week2.Test\obj\Debug\net5.0\Week2.Test.genruntimeconfig.cache
